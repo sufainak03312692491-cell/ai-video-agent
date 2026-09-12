@@ -1,4 +1,5 @@
-openai
-openai-whisper
+gradio
 ffmpeg-python
 yt-dlp
+openai
+openai-whisper
