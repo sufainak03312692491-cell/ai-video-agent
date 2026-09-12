@@ -1,4 +1,4 @@
+openai
 openai-whisper
-yt-dlp
-requests
 ffmpeg-python
+yt-dlp
